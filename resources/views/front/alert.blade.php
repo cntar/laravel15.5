@@ -6,7 +6,7 @@
 	<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 </head>
 <body>
-  <script type="text/javascript">alert('CHARGE IS SUCCESSFULLY, WAIT FOR THE PRODUCTS')</script>
+  <script type="text/javascript">alert('CHARGE IS SUCCESSFULLY')</script>
 </body>
 </html>
 
