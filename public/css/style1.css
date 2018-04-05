@@ -1,0 +1,118 @@
+
+img {
+        width: 215px;
+        height: 200px;
+        border-radius: 16px;
+    }
+
+
+
+  body {
+  	  background-color: #f5f6fa;
+
+  }
+
+ 
+
+.container {
+  position: relative;
+  width: 50%;
+}
+/*
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}*/
+
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  border-radius: 16px;
+ background-color: rgba(0, 0, 0, 0.8);
+  opacity: 1;
+  overflow: hidden;
+  width: 140%;
+  height:0;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  bottom: 0;
+  height: 100%;
+
+}
+   .btn btn-info{
+      width: 200px;
+     
+
+   }
+
+
+.text {
+  color: gold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+a {
+    color: red;
+}
+
+.nav-item {
+       list-style-type: none;
+       text-align: left;
+       margin-top: 5px;
+      font-size:20px;
+  }
+   #navgat {
+        background-color: #ffb142;
+   /*     padding-left: 200px;*/
+        width: 1400px;
+
+
+   }
+     #navgat a {
+        margin-left: 15px;
+        color: blue;
+     }
+
+    #nav h3{
+        margin-top:0px;
+        font-size:35px;
+        margin-left: 10px;
+        color:white;
+    }
+
+    footer {
+        background-color: #ffb142;
+        margin-top: 430px;
+        width: 1385px;
+        height: 80px;
+        text-align:center;
+        color:white;
+    }
+
+     .badge{
+     width: 30px;
+     height: 21px;
+     background-color: red;
+  }
+
+
+
+.stripe-button{
+    margin-right: 1000px;
+}
+
+
+
+
+

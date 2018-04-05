@@ -1,0 +1,70 @@
+body{
+      background-image: url('../images/kipepeo1.jpg');
+   /*   width: 1300px;/**/
+/*   height: 100px;*/
+   
+}
+  .nav-item {
+       list-style-type: none;
+       text-align: left;
+       margin-top: 5px;
+      font-size:20px;
+  
+  }
+
+
+#shop a {
+/*    margin-bottom: 25px;*/
+ /*   padding-bottom: 10px;*/
+    padding-top:0;
+ 
+}
+
+
+
+   #navgat {
+        background-color: hotpink;
+/*        padding-right: 200px;
+        width: 1500px;*/
+
+   }
+     #navgat a {
+        margin-left: 15px;
+     }
+    #nav h3{
+        margin-top:0px;
+        font-size:35px;
+        margin-left: 10px;
+        color:white;
+    }
+    #decor h1{
+        text-align: center;
+        margin-left:500px;
+        margin-top:150px;
+        color:white;
+          
+    }
+    .btn-info {
+        text-align: center;
+        margin-left:700px;
+        margin-top:20px;
+    }
+    footer {
+        background-color: hotpink;
+        margin-top: 400px;
+     /*   width: 1400px;*/
+        height: 80px;
+        text-align:center;
+        color:white;
+    }
+    .content-section  {
+         
+        width: 1350px;
+        height: 1000px;
+     }
+  .badge {
+     width: 30px;
+     height: 21px;
+     background-color: red;
+    
+  }

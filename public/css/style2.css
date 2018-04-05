@@ -1,0 +1,73 @@
+ body {
+ 	  background-color:#f5f6fa;
+ }
+.table{
+   border-bottom-left-radius: 2px solid skyblue;
+   width: 900px;
+   height: 200px;
+   margin: auto; 
+ 
+  
+}
+.thead-inverse {
+    background-color: skyblue;
+    width: 30px;
+    height: 60px;
+  
+}
+
+h3 {
+   margin-left: 100px;
+}
+/*.jumbotron {
+	  width: 1000px;
+	  height: 550px;
+	  margin:auto;
+	  margin-top: 50px;
+	  border-radius: 25px;
+	   margin-bottom: 50px;
+	  /* background-color: #FCE4EC;*/
+
+#total {
+	color: black;
+	margin-bottom: 10px;
+}
+.nav-item {
+       list-style-type: none;
+       text-align: left;
+       margin-top: 5px;
+      font-size:20px;
+  }
+
+   #navgat {
+        background-color:  #ffb142;
+      /*  padding-left: 800px;
+        width: 1500px;
+*/
+   }
+     #navgat a {
+        margin-left: 15px;
+     }
+    #nav h3{
+        margin-top:0px;
+        font-size:35px;
+        margin-left: 10px;
+        color:white;
+    }
+
+     footer {
+        background-color:  #ffb142;
+        margin-top: 300px;
+    /*    width: 1400px;*/
+        height: 80px;
+        text-align:center;
+        color:white;
+    }
+
+  .badge{
+     width: 30px;
+     height: 21px;
+     background-color: red;
+    
+
+  }
